@@ -2,7 +2,8 @@ def func1():
 	pass
 
 def func2():
-	pass
+	print("This is function 2")
+	print("this is created by sheetal")
 
 def func3():
 	pass
