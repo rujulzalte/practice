@@ -1,5 +1,6 @@
 def func1():
-	pass
+	print("this is function one")
+	print("this is created by rujul")
 
 def func2():
 	pass
